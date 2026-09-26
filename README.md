@@ -1,20 +1,20 @@
-# 💻 Arafat Portfolio
+💻 Arafat Portfolio
 
 > My personal portfolio website showcasing my skills, projects, education, and experience.
 
 ---
 
-## 👋 About Me
+👋 About Me
 
-Hi, I'm **Arafat Shihab**.
+Hi, I'm Arafat Shihab.
 
-I'm a **Computing and Information Systems (CIS)** student at **Daffodil International University (DIU)**. I'm passionate about programming, web development, and learning new technologies.
+I'm a Computing and Information Systems (CIS)** student at Daffodil International University (DIU), I'm passionate about programming, web development, and learning new technologies.
 
 I enjoy building projects, solving programming problems, and improving my technical skills step by step.
 
----
 
-## 🚀 What You'll Find Here
+
+🚀 What You'll Find Here
 
 - 💻 My Projects
 - 🎓 My Education
@@ -23,11 +23,11 @@ I enjoy building projects, solving programming problems, and improving my techni
 - 🌐 Web Development Projects
 - 💡 Future Goals
 
----
 
-## 🛠️ Technologies & Skills
 
-### Programming Languages
+🛠️ Technologies & Skills
+
+Programming Languages
 - C
 - Java
 - Python
@@ -37,28 +37,27 @@ I enjoy building projects, solving programming problems, and improving my techni
 - CSS
 - JavaScript
 
-### Tools
+ Tools
 - Git
 - GitHub
 - VS Code
 
 ---
-
-## 🎓 Education
+ 🎓 Education
 
 **Daffodil International University (DIU)**  
 Department of Computing and Information Systems (CIS)
 
 📚 Currently studying **B.Sc. in Computing and Information Systems**
 
----
 
-## 📂 Projects
 
-### 🌐 Personal Portfolio
+ 📂 Projects
+
+ 🌐 Personal Portfolio
 A personal portfolio website built using HTML and CSS to showcase my skills, projects, education, and experience.
 
-### 🎓 CampusConnect
+ 🎓 CampusConnect
 A student resource hub designed to help university students find useful academic resources and information.
 
 > More projects will be added as I continue learning and building.
@@ -76,7 +75,7 @@ A student resource hub designed to help university students find useful academic
 
 ---
 
-## 📫 Contact Me
+📫 Contact Me
 
 - 📧 Email: arafatshihab05@gmail.com
 - 💻 GitHub: arafatshihab05-art
